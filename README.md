@@ -430,8 +430,6 @@ Answer returned with citations
 
 ## Ali Haider
 
-AI Engineer
-
 Focused on:
 - Retrieval-Augmented Generation (RAG)
 - AI Engineering
