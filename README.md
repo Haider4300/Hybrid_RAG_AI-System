@@ -259,9 +259,9 @@ https://ollama.ai/
 ## 🔑 Get Free Groq API Key
 
 1. Go to [console.groq.com](https://console.groq.com)
-2. Sign up free (no credit card needed)
+2. Sign up for free (no credit card needed)
 3. Click **API Keys** → **Create API Key**
-4. Create a `.env` file in project root:
+4. Create a `.env` file in the project root:
 
 ```text
 GROQ_API_KEY=gsk_your_key_here
