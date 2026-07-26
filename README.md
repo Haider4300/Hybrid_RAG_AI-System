@@ -438,7 +438,7 @@ Focused on:
 - Full-Stack AI Applications
 - Computer Vision
 
----
+----
 
 # 📜 License
 
